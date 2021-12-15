@@ -15,7 +15,10 @@ contract FundMe {
 o if you know what you want to convert, say Eth -> USD, you have to know 
 //  what the conversion rate is
 //  how do you know that?  You have to use an external source to generate it for you
-
+//  see "The Oracle Problem";  SKs can't connect with external systems, data feeds, APIs, or any 
+//  other off-chain resources on their own
+//  sks are intentionally walled gardens
+//  
     }
 
 }
