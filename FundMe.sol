@@ -18,7 +18,7 @@ o if you know what you want to convert, say Eth -> USD, you have to know
 //  see "The Oracle Problem";  SKs can't connect with external systems, data feeds, APIs, or any 
 //  other off-chain resources on their own
 //  sks are intentionally walled gardens
-//  
+//  see this particular chapter for review
     }
 
 }
