@@ -19,6 +19,9 @@ o if you know what you want to convert, say Eth -> USD, you have to know
 //  other off-chain resources on their own
 //  sks are intentionally walled gardens
 //  see this particular chapter for review
+
+// how would getPrice function get implemented with conversion?
+
     }
 
 }
