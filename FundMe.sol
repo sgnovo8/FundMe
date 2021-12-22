@@ -2,6 +2,8 @@
 
 pragma solidity >=0.6.0 <0.9.0;
 
+// how to commit remotely?
+
 contract FundMe {
 
     mapping(address => uint) public addressToAmountFunded;
